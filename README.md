@@ -1,5 +1,5 @@
-### Starting up
 
+### aulia septy anggraini 
 ## node_modules
    npm install
 ## android app build files
